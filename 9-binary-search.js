@@ -6,7 +6,7 @@ Given a sorted array of integers, implement the Binary Search algorithm to find 
 If the target element is not found in the array, return -1.
 */
 
-
+// not binary search actually
 
 const example = [1, 2, 4, 5, 8, 9]
 
@@ -27,3 +27,8 @@ function binarySearch(arr, target){
 }
 
 console.log(binarySearch(example, 1))
+
+
+function binarySearchSecondAttempt(arr, target){
+    
+}
